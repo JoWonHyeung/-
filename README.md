@@ -18,6 +18,8 @@
 ## Stacks
 R, python
 
+Notion
+
 ## Period
 
 4/26 ~ 5/20
