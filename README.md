@@ -85,3 +85,5 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 5/09 : 일일 회의 및 각자 역할 수행, 본인은 화물차 사고 현황 및 졸음 운전 사고 데이터 수집 및 시각화 예정, 지도 시각화 코드 준비 
 
 5/10 : Naver geocoding, Google geocoding api를 활용해서 고속도로 각 지점별 위도, 경도 추출. 고속도로 사고 데이터 임시 데이터 확보
+
+5/11 : 교통사고 데이터, 고속도로 통행량 데이터를 통한 시각화 예정
