@@ -86,4 +86,4 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 
 5/10 : Naver geocoding, Google geocoding api를 활용해서 고속도로 각 지점별 위도, 경도 추출. 고속도로 사고 데이터 임시 데이터 확보
 
-5/11 : 교통사고 데이터, 고속도로 통행량 데이터를 통한 시각화 예정
+5/11 : 교통사고 데이터, 고속도로 통행량 데이터를 통한 시각화, 고속도로 구간별 시각화
