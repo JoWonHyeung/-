@@ -91,3 +91,5 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 5/12 : 고속도로 구간별 교통량 시각화 및 좌표 값 오류 수정
 
 5/14 : 고속도로 구간별 휴게소 카운트 및 KMeans를 활용해서 휴게소 입지 선정을 위한 코드 Check
+
+5/15 : GMM, DBSCAN 등등 타 군집화 알고리즘 구현
