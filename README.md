@@ -93,3 +93,5 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 5/14 : 고속도로 구간별 휴게소 카운트 및 KMeans를 활용해서 휴게소 입지 선정을 위한 코드 Check
 
 5/15 : GMM, DBSCAN 등등 타 군집화 알고리즘 구현
+
+5/16 : 고속도로 구간별 사고 건수 체크 및 고속도로 입지 선정을 위한 Kmeans 최적화
