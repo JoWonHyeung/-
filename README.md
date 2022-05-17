@@ -95,3 +95,5 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 5/15 : GMM, DBSCAN 등등 타 군집화 알고리즘 구현
 
 5/16 : 고속도로 구간별 사고 건수 체크 및 고속도로 입지 선정을 위한 Kmeans 최적화
+
+5/17 : 시각화 자료 마무리 및 연구 보고서 
