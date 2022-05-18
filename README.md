@@ -99,3 +99,5 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 5/17 : 시각화 자료 마무리 및 연구 보고서 작성 
 
 5/18 : 보완할 부분 추가 및 마무리 작업
+
+5/19 : 발표
