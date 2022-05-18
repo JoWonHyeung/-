@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+</style>
+
+<h2>2020년도 차종별 교통사고</h2>
+<table>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			<th>차종</th>
+			<th>사고건수(건)</th> 
+			<th>사망자수(명)</th>
+			<th>부상자수(명)</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+		<tr>
+			<td>계</td>
+			<td>209,654</td>
+			<td>3,081</td>
+			<td>306,194</td>
+		</tr>
+		
+		<tr>
+			<td>승용차</td>
+			<td>136,878</td>
+			<td>1,410</td>
+			<td>206,840</td>
+		</tr>
+		
+		<tr>
+			<td>승합차</td>
+			<td>10,463</td>
+			<td>165</td>
+			<td>15,737</td>
+		</tr>
+		
+		<tr>
+			<td>화물차</td>
+			<td>27,063</td>
+			<td>721</td>
+			<td>39,655</td>
+		</tr>
+		
+		<tr>
+			<td>특수차</td>
+			<td>1,177</td>
+			<td>38</td>
+			<td>1,734</td>
+		</tr>
+		
+		<tr>
+			<td>이륜차</td>
+			<td>18,280</td>
+			<td>439</td>
+			<td>23,673</td>
+		</tr>
+		
+		<tr>
+			<td>사륜오토바이(ATV)</td>
+			<td>304</td>
+			<td>30</td>
+			<td>343</td>
+		</tr>
+		
+		<tr>
+			<td>원동기장치자전거</td>
+			<td>2,674</td>
+			<td>56</td>
+			<td>3,332</td>
+		</tr>
+		
+		<tr>
+			<td>자전거</td>
+			<td>5,667</td>
+			<td>83</td>
+			<td>6,150</td>
+		</tr>
+		
+		<tr>
+			<td>개인형이동수단(PM)</td>
+			<td>897</td>
+			<td>10</td>
+			<td>985</td>
+		</tr>
+		
+		<tr>
+			<td>건설기계</td>
+			<td>2,438</td>
+			<td>77</td>
+			<td>3,530</td>
+		</tr>
+		
+		<tr>
+			<td>농기계</td>
+			<td>367</td>
+			<td>49</td>
+			<td>417</td>
+		</tr>
+		
+		<tr>
+			<td>기타</td>
+			<td>219</td>
+			<td>3</td>
+			<td>247</td>
+		</tr>
+		
+		<tr>
+			<td>불명</td>
+			<td>3,227</td>
+			<td>0</td>
+			<td>3,551</td>
+		</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
