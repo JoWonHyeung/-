@@ -101,3 +101,7 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 5/18 : 보완할 부분 추가 및 마무리 작업
 
 5/19 : 발표
+
+## Complement 
+
+군집 선정시 좀 더 근거있는 자료가 필요 할 듯함.
