@@ -104,4 +104,4 @@ http://www.road.re.kr/itms/itms_01.asp?pageNum=3&subNum=2
 
 ## Complement 
 
-군집 선정시 좀 더 근거있는 자료가 필요 할 듯함.
+고속도로 휴게소 최적 군집 선정시 좀 더 근거있는 자료가 필요 할 듯함.
